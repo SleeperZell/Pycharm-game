@@ -25,7 +25,7 @@ creature_stats = {
     }
 }
 
-
+# This function shows how combat will work
 def combat(role, creature):
     # new code below
     current_hp = role_stats[role]['hp']
