@@ -42,7 +42,7 @@ def game():
     # asking the user for their name
     name = input("Hello Adventurer, what is your name?")
 
-    # Asking the user what role they would like to select
+    # Asking the user what role they would like to select from the current ones
     print("Ok, %s, what role would you like to choose from?" % name)
 
     # when confirm doesn't equal yes:
